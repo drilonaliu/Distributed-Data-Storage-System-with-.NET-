@@ -1,0 +1,8 @@
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ProgramSpecification\bin\Debug\ProgramSpecification.exe.config
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ProgramSpecification\bin\Debug\ProgramSpecification.exe
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ProgramSpecification\bin\Debug\ProgramSpecification.pdb
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ProgramSpecification\obj\Debug\ProgramSpecification.csproj.AssemblyReference.cache
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ProgramSpecification\obj\Debug\ProgramSpecification.csproj.SuggestedBindingRedirects.cache
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ProgramSpecification\obj\Debug\ProgramSpecification.csproj.CoreCompileInputs.cache
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ProgramSpecification\obj\Debug\ProgramSpecification.exe
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ProgramSpecification\obj\Debug\ProgramSpecification.pdb

@@ -1,0 +1,15 @@
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ServerSide\obj\Debug\ServerSide.csproj.AssemblyReference.cache
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ServerSide\obj\Debug\ServerSide.csproj.SuggestedBindingRedirects.cache
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ServerSide\obj\Debug\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ServerSide\bin\Debug\ServerSide.exe.config
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ServerSide\bin\Debug\ServerSide.exe
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ServerSide\bin\Debug\ServerSide.pdb
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ServerSide\obj\Debug\ServerSide.exe
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ServerSide\obj\Debug\ServerSide.pdb
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ServerSide\bin\Debug\ProgramSpecification.exe
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ServerSide\bin\Debug\ProgramSpecification.pdb
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ServerSide\bin\Debug\ProgramSpecification.exe.config
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ServerSide\obj\Debug\ServerSide.csproj.CopyComplete
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ServerSide\bin\Debug\TCPClient.exe
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ServerSide\bin\Debug\TCPClient.pdb
+C:\Users\drilo\Desktop\Projekti2\DistributedDataStorageSystem\ServerSide\bin\Debug\TCPClient.exe.config
